@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# IntelliJ IDEA
+.idea/
+
+# Maven build files
+target/
+
+# IntelliJ project files
+*.iml
